@@ -23,5 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-# Venv
+#Annan skit
 .venv/
+__pycache__/
